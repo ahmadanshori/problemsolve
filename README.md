@@ -1,3 +1,5 @@
 # problemsolve
 
-- _Looking for iOS? Check out
+```groovy
+react-native run-ios --simulator="iPhone X"
+```
