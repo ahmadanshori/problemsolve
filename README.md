@@ -22,7 +22,6 @@ react-native log-android
 ```
 
 ## Problem Solve error2 di Xcode
-
 | Error   |      Solution      |
 |----------|-------------|
 |library not found for -lPods-OneSignalNotificationServiceExtension|pod install ulang|
@@ -31,7 +30,7 @@ react-native log-android
 |sign in unable to resolve an issue with|buat signing sesuai build identifier|
 |the following URL schemes found in your app are not in the correct format|create cer|
 
-## Adobe XD Link
+## Adobe XD Link (prototype)
 - [iProfile](https://xd.adobe.com/view/cf084c89-e2c2-4947-8e91-8b59e7c5330c-9a5b/)
 - [Eyelovin](https://xd.adobe.com/view/e2cf2909-1097-4afd-59ec-339c3befed65-94fe/)
 - [Xendtral Driver](https://xd.adobe.com/view/166870d3-bb3b-467d-be65-6c46a747d5af-433b/)
