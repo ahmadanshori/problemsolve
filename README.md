@@ -25,3 +25,8 @@ cd android && ./gradlew clean && ./gradlew assembleReleaseStaging
 react-native log-android
 ```
 
+## Problem Solve error2 di Xcode
+
+| Error   |      Solution      |
+|----------|-------------|
+|library not found for -lPods-OneSignalNotificationServiceExtension|pod install ulang|
