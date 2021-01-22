@@ -25,8 +25,10 @@ cd android && ./gradlew clean && ./gradlew assembleReleaseStaging
 react-native log-android
 ```
 
+
 ## Problem Solve error2 di Xcode
 
 | Error   |      Solution      |
 |----------|-------------|
 |library not found for -lPods-OneSignalNotificationServiceExtension|pod install ulang|
+|invalid app store icon. the app store icon in the asset catalog in ‘eyelovin.app’ cant be transparent|buka gambar => export => uncheck Alpha => save upload ulang|
