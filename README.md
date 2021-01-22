@@ -1,7 +1,4 @@
-# Problem Solve
-
-
-### Syntax
+## Syntax
 
 #### jalankan ios dengan spek emulator yang diinginkan
 ```groovy
