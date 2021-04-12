@@ -21,6 +21,11 @@ Log Android
 react-native log-android
 ```
 
+Get SHA1 for firebase
+```groovy
+cd android && ./gradlew signingReport
+```
+
 ## Problem Solve error2 di Xcode
 | Error   |      Solution      |
 |----------|-------------|
