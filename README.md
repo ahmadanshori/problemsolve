@@ -33,7 +33,7 @@ cd android && ./gradlew signingReport
 |invalid app store icon. the app store icon in the asset catalog in ‘eyelovin.app’ cant be transparent|buka gambar => export => uncheck Alpha => save upload ulang|
 |the following URL schemes found in your app are not in the correct format|create cer|
 |sign in unable to resolve an issue with|buat signing sesuai build identifier|
-|the following URL schemes found in your app are not in the correct format|create cer|
+|DEVELOPER ERROR, code=10|belum terbaca di google console atau firebase, masukan sha1|
 
 ## Adobe XD Link (prototype)
 - [iProfile](https://xd.adobe.com/view/cf084c89-e2c2-4947-8e91-8b59e7c5330c-9a5b/)
